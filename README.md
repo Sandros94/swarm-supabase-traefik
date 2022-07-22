@@ -1,3 +1,16 @@
+# Work needs to be done first
+
+
+
+
+
+
+
+
+
+
+
+
 # Supabase Docker with Traefik
 
 Note: this setup is unnofficial. It is supported by the Supabase community only.
